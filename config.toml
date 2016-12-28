@@ -1,4 +1,4 @@
-baseurl = "https://anandyadav7.github.io/"
+baseurl = "https://anandyadav7.github.io/AMP-Project"
 languageCode = "en-us"
 title = "gohugo-amp starter theme"
 theme = "gohugo-amp"
